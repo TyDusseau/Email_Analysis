@@ -2,7 +2,7 @@
 
 ## Objective
 
-In this email analysis lab, my objective was to develop the skills and expertise necessary to proficiently analyze and counter phishing email threats. Through hands-on exercises, I learned to discern suspicious emails by examining sender information, content, and attachments for signs of malicious intent. By diving into email headers, metadata, file signatures, and URL analysis, I honed my ability to trace the origins of phishing attempts and assess their severity. Ultimately, this project empowered me with practical techniques and strategies to bolster email security posture and mitigate the risk of individuals falling victim to phishing attacks.
+In this email analysis project, my objective was to develop the skills and expertise necessary to proficiently analyze and counter phishing email threats. Through hands-on exercises, I learned to discern suspicious emails by examining sender information, content, and attachments for signs of malicious intent. By diving into email headers, metadata, file signatures, and URL analysis, I honed my ability to trace the origins of phishing attempts and assess their severity. Ultimately, this project empowered me with practical techniques and strategies to bolster email security posture and mitigate the risk of individuals falling victim to phishing attacks.
 
 ### Skills Learned
 
